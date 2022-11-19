@@ -1,0 +1,15 @@
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5_Cycle\bin\Debug\net6.0\Lesson5_Cycle.exe
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5_Cycle\bin\Debug\net6.0\Lesson5_Cycle.deps.json
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5_Cycle\bin\Debug\net6.0\Lesson5_Cycle.runtimeconfig.json
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5_Cycle\bin\Debug\net6.0\Lesson5_Cycle.dll
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5_Cycle\bin\Debug\net6.0\Lesson5_Cycle.pdb
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5_Cycle\obj\Debug\net6.0\Lesson5_Cycle.csproj.AssemblyReference.cache
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5_Cycle\obj\Debug\net6.0\Lesson5_Cycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5_Cycle\obj\Debug\net6.0\Lesson5_Cycle.AssemblyInfoInputs.cache
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5_Cycle\obj\Debug\net6.0\Lesson5_Cycle.AssemblyInfo.cs
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5_Cycle\obj\Debug\net6.0\Lesson5_Cycle.csproj.CoreCompileInputs.cache
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5_Cycle\obj\Debug\net6.0\Lesson5_Cycle.dll
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5_Cycle\obj\Debug\net6.0\refint\Lesson5_Cycle.dll
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5_Cycle\obj\Debug\net6.0\Lesson5_Cycle.pdb
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5_Cycle\obj\Debug\net6.0\Lesson5_Cycle.genruntimeconfig.cache
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5_Cycle\obj\Debug\net6.0\ref\Lesson5_Cycle.dll
