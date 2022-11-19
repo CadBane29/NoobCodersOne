@@ -1,0 +1,15 @@
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5.1_break\obj\Debug\net6.0\Lesson5.1_break.csproj.AssemblyReference.cache
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5.1_break\obj\Debug\net6.0\Lesson5.1_break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5.1_break\obj\Debug\net6.0\Lesson5.1_break.AssemblyInfoInputs.cache
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5.1_break\obj\Debug\net6.0\Lesson5.1_break.AssemblyInfo.cs
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5.1_break\obj\Debug\net6.0\Lesson5.1_break.csproj.CoreCompileInputs.cache
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5.1_break\bin\Debug\net6.0\Lesson5.1_break.exe
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5.1_break\bin\Debug\net6.0\Lesson5.1_break.deps.json
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5.1_break\bin\Debug\net6.0\Lesson5.1_break.runtimeconfig.json
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5.1_break\bin\Debug\net6.0\Lesson5.1_break.dll
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5.1_break\bin\Debug\net6.0\Lesson5.1_break.pdb
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5.1_break\obj\Debug\net6.0\Lesson5.1_break.dll
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5.1_break\obj\Debug\net6.0\refint\Lesson5.1_break.dll
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5.1_break\obj\Debug\net6.0\Lesson5.1_break.pdb
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5.1_break\obj\Debug\net6.0\Lesson5.1_break.genruntimeconfig.cache
+C:\Users\Cad Bane\Desktop\HomeWorck\C#\NoobCodersOne\Lesson5.1_break\obj\Debug\net6.0\ref\Lesson5.1_break.dll
