@@ -32,6 +32,41 @@
 // double result = Math.Round(distance, 4, MidpointRounding.ToZero);
 // Console.WriteLine(result);
 
+// int InputNumber(string message)
+// {
+//     Console.Write(message);
+//     int num = Convert.ToInt32(Console.ReadLine());
+//     return num;
+// }
+
+// Console.WriteLine("Введите координаты точек.");
+
+// int x1 = InputNumber("X для первой точки: ");
+// int y1 = InputNumber("Y для первой точки: ");
+// int z1 = InputNumber("Z для первой точки: ");
+// int x2 = InputNumber("X для второй точки: ");
+// int y2 = InputNumber("Y для второй точки: ");
+// int z2 = InputNumber("Z для второй точки: ");
+
+// int MinusAndPower(int num1, int num2)
+// {
+//     return ((num1 - num2) * (num1 - num2)); 
+// }
+
+// double Distance(int x_1, int y_1, int z_1, int x_2, int y_2, int z_2)
+// {
+//     int xSec = MinusAndPower(x_1, x_2);
+//     int ySec = MinusAndPower(y_1, y_2);
+//     int zSec = MinusAndPower(z_1, z_2);
+//     double dist = Math.Sqrt(xSec + ySec + zSec);
+//     dist = Math.Round(dist, 2, MidpointRounding.ToZero);
+//     return dist;
+// }
+
+// double distance = Distance(x1, y1, z1, x2, y2, z2);
+
+// Console.WriteLine($"A ({x1}, {y1}, {z1}); B ({x2}, {y2}, {z2}), -> {distance}");
+
 int InputNumber(string message)
 {
     Console.Write(message);
@@ -39,18 +74,18 @@ int InputNumber(string message)
     return num;
 }
 
-Console.WriteLine("Введите координаты точек.");
+Console.WriteLine("Enter point coordinates: ");
 
-int x1 = InputNumber("X для первой точки: ");
-int y1 = InputNumber("Y для первой точки: ");
-int z1 = InputNumber("Z для первой точки: ");
-int x2 = InputNumber("X для второй точки: ");
-int y2 = InputNumber("Y для второй точки: ");
-int z2 = InputNumber("Z для второй точки: ");
+int x1 = InputNumber("X for the first point: ");
+int y1 = InputNumber("Y for the first point: ");
+int z1 = InputNumber("Z for the first point: ");
+int x2 = InputNumber("X for the second point: ");
+int y2 = InputNumber("Y for the second point: ");
+int z2 = InputNumber("Z for the second point: ");
 
 int MinusAndPower(int num1, int num2)
 {
-    return ((num1 - num2) * (num1 - num2)); 
+    return ((num1 - num2) * (num1 - num2));
 }
 
 double Distance(int x_1, int y_1, int z_1, int x_2, int y_2, int z_2)
@@ -64,5 +99,4 @@ double Distance(int x_1, int y_1, int z_1, int x_2, int y_2, int z_2)
 }
 
 double distance = Distance(x1, y1, z1, x2, y2, z2);
-
-Console.WriteLine($"A ({x1}, {y1}, {z1}); B ({x2}, {y2}, {z2}), -> {distance}");
+Console.WriteLine($"A ({x1}, {y1}, {z1}); B ({x2}, {y2}, {z2}) -> {distance}");

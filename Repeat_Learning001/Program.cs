@@ -30,14 +30,52 @@
 // if(result == num) Console.WriteLine($"Your number {num} is a palindrome of number {result}.");
 // else Console.WriteLine($"Number {result} is not a palindrome of number {num}!");
 
+// int InputNumber()
+// {
+//     int num = 0;
+//     while (num < 10 && num > -10)
+//     {
+//         Console.Write("Введите целое число: ");
+//         num = Convert.ToInt32(Console.ReadLine());
+//         if (num < 10 && num > -10) Console.WriteLine("Для палиндрома нужно хотя бы двузначное число.\n");
+//     }
+//     return num;
+// }
+
+// int Reverse(int num)
+// {
+//     int rev = 0;
+//     while (num != 0)
+//     {
+//         rev = rev * 10 + num % 10;
+//         num /= 10;
+//     }
+//     return rev;
+// }
+
+// bool CheckPalindrome(int num)
+// {
+//     int rev = Reverse(num);
+//     return num == rev;
+// }
+
+// void Output()
+// {
+//     int num = InputNumber();
+//     if (CheckPalindrome(num)) Console.WriteLine($"{num} -> да");
+//     else Console.WriteLine($"{num} -> нет");
+// }
+
+// Output();
+
 int InputNumber()
 {
     int num = 0;
     while (num < 10 && num > -10)
     {
-        Console.Write("Введите целое число: ");
+        Console.Write("Enter an intenger: ");
         num = Convert.ToInt32(Console.ReadLine());
-        if (num < 10 && num > -10) Console.WriteLine("Для палиндрома нужно хотя бы двузначное число.\n");
+        if (num < 10 && num > -10) Console.WriteLine("A palindrome requires at least a two-digit number! \n");
     }
     return num;
 }
@@ -62,8 +100,8 @@ bool CheckPalindrome(int num)
 void Output()
 {
     int num = InputNumber();
-    if (CheckPalindrome(num)) Console.WriteLine($"{num} -> да");
-    else Console.WriteLine($"{num} -> нет");
+    if (CheckPalindrome(num)) Console.WriteLine($"{num} -> Yes!");
+    else Console.WriteLine($"{num} -> Nope!");
 }
 
 Output();
